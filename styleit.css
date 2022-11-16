@@ -6,4 +6,6 @@
   margin-bottom: auto;
   width: 50%;
 }
-background-color: #DBF9FC;
+body {
+  background-color: black;
+}
